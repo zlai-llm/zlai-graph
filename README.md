@@ -1,5 +1,5 @@
 <div align="center">
-# ZLAI-Graph
+<h1>ZLAI-Graph</h1>
 
 **使用大模型提取知识图谱**
 </div>
