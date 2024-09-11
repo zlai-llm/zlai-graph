@@ -6,7 +6,7 @@
 
 > 项目介绍
 
-**这个项目提取了《西游记》原著中的`人物/地点`的实体与其关系。** 实体关系提取框架使用了[zlai](https://zlai-llm.github.io/zlai-doc/#/)大模型使用了智谱AI的[GLM4](https://www.zhipuai.cn/)。
+**这个项目提取了《西游记》原著中的`人物/地点`的实体与其关系。** 实体关系提取框架使用了[ZLAI](https://zlai-llm.github.io/zlai-doc/#/)大模型使用了智谱AI的[GLM4](https://www.zhipuai.cn/)。
 
 > 实体关系节点介绍
 
@@ -76,5 +76,12 @@ RETURN h, n
 > 问题
 
 1. 输出的描述中有部分为英文。
+
+> 讨论群
+
+<center>
+<img src="./img/wechat.jpg" width="150px">
+<h5>微信群</h5>
+</center>
 
 -----
